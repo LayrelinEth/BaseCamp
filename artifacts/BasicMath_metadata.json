@@ -77,7 +77,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"BasicMath.sol": "BasicMath"
+			"1_BasicMath.sol": "BasicMath"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -91,7 +91,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"BasicMath.sol": {
+		"1_BasicMath.sol": {
 			"keccak256": "0x75fd5b60cadd26a9563551b419a550b55b6e0748d6061c78b47e2dc6d8689061",
 			"license": "MIT",
 			"urls": [
