@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.17+commit.8df45f5f"
 	},
 	"language": "Solidity",
 	"output": {
@@ -111,9 +111,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"5_Mappings.sol": "FavoriteRecords"
+			"05_Mappings.sol": "FavoriteRecords"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -125,7 +125,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"5_Mappings.sol": {
+		"05_Mappings.sol": {
 			"keccak256": "0xef84f0c505838891d18ffa7d97db7036a5d69491b7b202a361c8a34ad556c37b",
 			"license": "MIT",
 			"urls": [

@@ -97,7 +97,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"4_Arrays.sol": "ArraysExercise"
+			"04_Arrays.sol": "ArraysExercise"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -111,7 +111,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"4_Arrays.sol": {
+		"04_Arrays.sol": {
 			"keccak256": "0xcd50ba1b844ce197d4539e19ed767a66b36453a2e77b87df9d1af71a0e1a84f4",
 			"license": "MIT",
 			"urls": [

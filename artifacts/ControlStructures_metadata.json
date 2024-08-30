@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.17+commit.8df45f5f"
 	},
 	"language": "Solidity",
 	"output": {
@@ -73,9 +73,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"2_ControlStructures.sol": "ControlStructures"
+			"02_ControlStructures.sol": "ControlStructures"
 		},
-		"evmVersion": "cancun",
+		"evmVersion": "london",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -87,7 +87,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"2_ControlStructures.sol": {
+		"02_ControlStructures.sol": {
 			"keccak256": "0xd92d22ae0562f12e852340a0ae091950df85245a85a857d2a3a60c3d3c4a8e49",
 			"license": "MIT",
 			"urls": [

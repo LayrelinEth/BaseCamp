@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.17+commit.8df45f5f"
+		"version": "0.8.26+commit.8a97fa7a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -92,9 +92,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"7_Inheritance.sol": "Salesperson"
+			"07_Inheritance.sol": "Salesperson"
 		},
-		"evmVersion": "london",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -106,7 +106,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"7_Inheritance.sol": {
+		"07_Inheritance.sol": {
 			"keccak256": "0xf14fac2ccf3b98ce0044f090e8b9196088c8df7970584c6d29e896d66dc8bd78",
 			"license": "MIT",
 			"urls": [

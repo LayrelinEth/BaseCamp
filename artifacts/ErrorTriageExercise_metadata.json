@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.17+commit.8df45f5f"
+		"version": "0.8.26+commit.8a97fa7a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -123,9 +123,9 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"9_Errors.sol": "ErrorTriageExercise"
+			"09_Errors.sol": "ErrorTriageExercise"
 		},
-		"evmVersion": "london",
+		"evmVersion": "cancun",
 		"libraries": {},
 		"metadata": {
 			"bytecodeHash": "ipfs"
@@ -137,7 +137,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"9_Errors.sol": {
+		"09_Errors.sol": {
 			"keccak256": "0x54444f90598e4a5d9436e8dc873bd038652968889f65aac48cc19a6327f0380f",
 			"license": "MIT",
 			"urls": [

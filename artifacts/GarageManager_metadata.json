@@ -174,7 +174,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"6_ Structs.sol": "GarageManager"
+			"06_ Structs.sol": "GarageManager"
 		},
 		"evmVersion": "london",
 		"libraries": {},
@@ -188,7 +188,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"6_ Structs.sol": {
+		"06_ Structs.sol": {
 			"keccak256": "0xdce56807217df706d8c03f34d6c93b9a9f181fbc73c4b93a3e8ec68cf142e4be",
 			"license": "MIT",
 			"urls": [
